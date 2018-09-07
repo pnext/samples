@@ -1,6 +1,6 @@
 # Testing Data (for point cloud visualization)
 
-Example point cloud data that can be used for example displays and tests. More data and documentation will be added (and access via npm).
+Example point cloud data that can be used for example displays and tests. 
 
 **NOTE:** Creating these datasets requires [PDAL](https://pdal.io). If you don't have pdal installed, please checkout their [installation guides]((https://pdal.io/download.html)) or use via [docker](https://pdal.io/quickstart.html).
 
