@@ -21,9 +21,8 @@ do
             --readers.las.filename=lasdump/tmp$counter.las \
             --filters.assign.assignment=Classification[0:0]=$i
       done
-      pdal pipeline merge.json --writers.las.filename=../$v$k$d$j.las
+      pdal pipeline merge.json --writers.las.filename=las/$v$k$d$j.las
     fi
   done
 done
-
 rm -rf lasdump
