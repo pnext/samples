@@ -2,7 +2,7 @@
 
 | Data Set      | Creator                             | License        | Formats           |
 | --------------|:-----------------------------------:| --------------:| -----------------:|
-| RandomSample  | Iosefa Percival                     | BSD Clause 2   | las, laz          |
+| RandomSample  | Iosefa Percival (Georepublic)       | BSD Clause 2   | las, laz          |
 
 To create this dataset yourself, see the instructions below.
 
