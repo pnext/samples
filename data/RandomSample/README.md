@@ -1,3 +1,13 @@
+# A collection of randomly sampled points
+
+| Data Set      | Creator                             | License        | Formats           |
+| --------------|:-----------------------------------:| --------------:| -----------------:|
+| RandomSample  | Iosefa Percival                     | BSD Clause 2   | las, laz          |
+
+To create this dataset yourself, see the instructions below.
+
+---
+
 # Sample Point Cloud Generator
 
 A bash script that uses pdal to create sample point clouds for testing purposes.
