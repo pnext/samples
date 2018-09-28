@@ -1,0 +1,4 @@
+[submodule "data/NorthCarolina"]
+	path = data/NorthCarolina
+	url = git@github.com:pnext/samples.git
+	branch = NorthCarolina
