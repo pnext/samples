@@ -2,3 +2,7 @@
 	path = data/NorthCarolina
 	url = git@github.com:pnext/samples.git
 	branch = NorthCarolina
+[submodule "data/RandomSample"]
+	path = data/RandomSample
+	url = git@github.com:pnext/samples.git
+	branch = RandomSample
